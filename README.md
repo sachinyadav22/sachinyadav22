@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sachin Yadav
 - 👀 I’m interested in lot's of things like Coding, Hacking, Reading, video&photo Editing, clicking photos and so many more :)
-- 🌱 I’m currently learning Web Development and Ethical Hacking 
+- 🌱 I’m currently learning C++ and Ethical Hacking 
 - 💞️ I’m looking to collaborate on Developing Projects and Video & Photo Editing 
 - 📫 Reach me at Sachinyadav0422@gmail.com
 
